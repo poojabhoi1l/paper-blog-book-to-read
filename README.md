@@ -12,10 +12,10 @@ This repo contains all the papers, books, blogs that I wish to read
 ## Books to read:
 
 - [ Practical Time Series Analysis: Prediction with Statistics and Machine Learning by Aileen Nielsen](https://www.goodreads.com/book/show/42832583-practical-time-series-analysis)
-- [Responsible Machine Learning](https://www.oreilly.com/library/view/responsible-machine-learning/9781492090878/)
+- [Responsible Machine Learning By Patrick Hall, Navdeep Gill and Benjamin Cox](https://www.oreilly.com/library/view/responsible-machine-learning/9781492090878/)
+- [Software Engineering at Google by Titus Winters, Tom Manshreck, Hyrum Wright](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) :fire:
 
-
-## Blog to read:
+## Blogs to read:
 
 - [Reg2Vec: Learning Embeddings for High Cardinality Customer Registration Features](https://medium.com/building-ibotta/reg2vec-learning-embeddings-for-high-cardinality-customer-registration-features-faf712f12842)
 - [From zero to research — An introduction to Meta-learning](https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a)
