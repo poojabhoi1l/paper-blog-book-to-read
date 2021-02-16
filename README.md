@@ -21,6 +21,11 @@ This repo contains all the papers, books, blogs that I wish to read
 - [Responsible Machine Learning By Patrick Hall, Navdeep Gill and Benjamin Cox](https://www.oreilly.com/library/view/responsible-machine-learning/9781492090878/)
 - [Software Engineering at Google by Titus Winters, Tom Manshreck, Hyrum Wright](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) :fire:
 
+## Course to finish
+
+- [CS 329S: Machine Learning Systems Design - Winter 2021 - Chip Huyen](https://stanford-cs329s.github.io/) :rocket:
+- [CMU CS 11-747 Neural Network for NLP Spring 2021](http://phontron.com/class/nn4nlp2021/schedule.html) :rocket:
+
 ## Blogs to read:
 
 - [Reg2Vec: Learning Embeddings for High Cardinality Customer Registration Features](https://medium.com/building-ibotta/reg2vec-learning-embeddings-for-high-cardinality-customer-registration-features-faf712f12842)
