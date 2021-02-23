@@ -31,11 +31,12 @@ This repo contains all the papers, books, blogs that I wish to read
 - [ ] [rasbt/deeplearning-models](https://github.com/rasbt/deeplearning-models) :rocket:
 - [ ] [ML model deployment -  mrdbourke/cs329s-ml-deployment-tutorial](https://github.com/mrdbourke/cs329s-ml-deployment-tutorial/) :rocket:
 
+
 ## Blogs to read:
 
 - [ ] [Reg2Vec: Learning Embeddings for High Cardinality Customer Registration Features](https://medium.com/building-ibotta/reg2vec-learning-embeddings-for-high-cardinality-customer-registration-features-faf712f12842)
 - [ ] [From zero to research — An introduction to Meta-learning](https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a)
-
+- [ ] [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) :rocket:
 
 
 ----
