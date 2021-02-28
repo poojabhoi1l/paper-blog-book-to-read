@@ -29,6 +29,7 @@ This repo contains all the papers, books, blogs that I wish to read
 - [ ] [CMU CS 11-747 Neural Network for NLP Spring 2021](http://phontron.com/class/nn4nlp2021/schedule.html) :rocket:
 - [ ] [CS224W: Machine Learning with Graphs - Winter 2021](https://web.stanford.edu/class/cs224w/)
   - [ ] [Lecture Videos](https://www.youtube.com/playlist?list=PL-Y8zK4dwCrQyASidb2mjj_itW2-YYx6-) :rocket: 
+- [ ] [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018 - Prof. Gilbert Strang](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) :zap: :zap:
 
 ## Hands-on to try
 
