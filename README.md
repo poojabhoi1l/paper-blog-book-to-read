@@ -14,6 +14,8 @@ This repo contains all the papers, books, blogs that I wish to read
 - [ ] [The Hardware Lottery - Sara Hooker](https://arxiv.org/abs/2009.06489)
 - [ ] [AutoML - Efficient and Robust Automated Machine Learning](https://papers.nips.cc/paper/2015/file/11d0e6287202fced83f79975ec59a3a6-Paper.pdf)
 - [ ] [Graph Neural Networks: Taxonomy, Advances and Trends](https://arxiv.org/abs/2012.08752)
+- [ ] [KDD2014 - DeepWalk: online learning of social representations](https://dl.acm.org/doi/10.1145/2623330.2623732) :zap:
+- [ ] [KDD2016 - node2vec: Scalable feature learning for networks - Leskovec](https://dl.acm.org/doi/abs/10.1145/2939672.2939754) :zap:
 
 ## Books to read:
 
