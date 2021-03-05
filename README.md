@@ -16,6 +16,7 @@ This repo contains all the papers, books, blogs that I wish to read
 - [ ] [Graph Neural Networks: Taxonomy, Advances and Trends](https://arxiv.org/abs/2012.08752)
 - [ ] [KDD2014 - DeepWalk: online learning of social representations](https://dl.acm.org/doi/10.1145/2623330.2623732) :zap:
 - [ ] [KDD2016 - node2vec: Scalable feature learning for networks - Leskovec](https://dl.acm.org/doi/abs/10.1145/2939672.2939754) :zap:
+- [ ] [ICDAR 2019 Competition on Post-OCR Text Correction](https://hal.archives-ouvertes.fr/hal-02304334/document)
 
 ## Books to read:
 
