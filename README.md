@@ -29,8 +29,8 @@ This reposatory consists of the list of books, cases, courses I need to study in
 - [ ] [The Strategy of Content Marketing](https://www.coursera.org/learn/content-marketing/home/welcome)
 - [ ] [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data/home/welcome) 
 - [ ] [Introduction to Google SEO](https://www.coursera.org/learn/search-engine-optimization/home/welcome)
-- [ ] [The Datascientist's Toolbox]([https://www.coursera.org/learn/search-engine-optimization/home/welcome](https://www.coursera.org/learn/data-scientists-tools/home/welcome))
+- [ ] [The Datascientist's Toolbox](https://www.coursera.org/learn/search-engine-optimization/home/welcome](https://www.coursera.org/learn/data-scientists-tools/home/welcome))
 - [ ] [Excel Skill for Business Specialization](https://www.coursera.org/specializations/excel?)
-- [ ] [Getting Started with Python](https://www.coursera.org/learn/python?
+- [ ] [Getting Started with Python](https://www.coursera.org/learn/python?)
 
 ----
